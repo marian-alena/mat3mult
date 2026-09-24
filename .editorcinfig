@@ -1,0 +1,8 @@
+# This is the top-most EditorConfig file
+root = true
+
+# Apply LF line endings to all files
+[*]
+end_of_line = lf
+insert_final_newline = true
+trim_trailing_whitespace = true
